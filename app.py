@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Backend API URL
-API_URL = "https://gut-health-ai-backend.onrender.com/"
+API_URL = "https://gut-health-ai-backend.onrender.com/generate_meal_plan"
 
 st.title("Gut Health AI Meal Planner")
 
